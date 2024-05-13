@@ -31,4 +31,4 @@ Breeding will take place between one male and one female of the species. Each fe
 
 Spreadsheet 
 -
-The program's output will go on an Excel spreadsheet so we can visualize the population growth 
+To visualize the population growth, the program will use Python's excel writer, allowing for a chart to be made of the data.
